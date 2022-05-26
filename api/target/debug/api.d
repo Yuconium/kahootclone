@@ -1,0 +1,1 @@
+/home/levis/Dokumente/kahootclone/api/target/debug/api: /home/levis/Dokumente/kahootclone/api/src/StructSchema.rs /home/levis/Dokumente/kahootclone/api/src/db.rs /home/levis/Dokumente/kahootclone/api/src/main.rs

@@ -1,0 +1,12 @@
+/home/levis/Dokumente/Websites/kahootclone/api/target/debug/deps/notify-fd8d07aa07c96a24.rmeta: /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/levis/Dokumente/Websites/kahootclone/api/target/debug/deps/libnotify-fd8d07aa07c96a24.rlib: /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/levis/Dokumente/Websites/kahootclone/api/target/debug/deps/notify-fd8d07aa07c96a24.d: /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:

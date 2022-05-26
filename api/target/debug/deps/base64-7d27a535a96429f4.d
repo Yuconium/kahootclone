@@ -1,0 +1,13 @@
+/home/levis/Dokumente/kahootclone/api/target/debug/deps/base64-7d27a535a96429f4.rmeta: /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/home/levis/Dokumente/kahootclone/api/target/debug/deps/libbase64-7d27a535a96429f4.rlib: /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/home/levis/Dokumente/kahootclone/api/target/debug/deps/base64-7d27a535a96429f4.d: /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs:
+/home/levis/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs:
